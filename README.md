@@ -5,4 +5,4 @@ Integrantes: Magdalena Darchez, comision 7, Agustin Diaz, comision 7
 
 Nuestro objetivo con este trabajo es comprender la importancia de la eficiencia en el desarrollo de software y demuestrae como elegir el método adecuado puede mejorar significativamente el rendimiento en procesamiento de datos.
 
-Link de youtube: https://www.youtube.com/watch?v=n8KuURKfnJ8
+Link de youtube: https://www.youtube.com/watch?v=QJrMWfEQev4
